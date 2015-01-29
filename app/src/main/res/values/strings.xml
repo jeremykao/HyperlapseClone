@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">HyperlapseClone</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="default_recording_time">0:00 | 0:00</string>
     <string name="action_settings">Settings</string>
 
 </resources>

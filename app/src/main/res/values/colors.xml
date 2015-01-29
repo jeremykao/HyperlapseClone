@@ -1,0 +1,8 @@
+<resources>
+    <item name="whiteish" type="color">#fffffff9</item>
+    <item name="black" type="color">#000000</item>
+    <item name="dark_red" type="color">#9F2200</item>
+    <item name="silverish" type="color">#fff2f4f2</item>
+
+
+</resources>
